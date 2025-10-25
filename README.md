@@ -9,10 +9,15 @@ This project involves data cleaning, analysis, and visualization using Excel, Py
 
 # Tool                                   Library	Purpose
 Excel	                                   Data collection, initial cleaning, and exploration.
+
 Python	                                 Data preprocessing, transformation, and automation.
+
 Pandas	                                 Data manipulation and analysis.
+
 NumPy	                                   Numerical computations.
+
 Matplotlib & Seaborn	                   Data visualization and trend analysis.
+
 Power BI	                               Dashboard creation for interactive data visualization.
 
 # Project Workflow
