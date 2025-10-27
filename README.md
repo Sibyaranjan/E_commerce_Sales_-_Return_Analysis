@@ -7,8 +7,8 @@ This project involves data cleaning, analysis, and visualization using Excel, Py
 
 ## Tools and Technologies Used
 
-## Tool                         |          Library	Purpose|
-Excel	                         |        Data collection, initial cleaning, and exploration.
+## Tool                        ----------------          Library	Purpose
+Excel	                         -       Data collection, initial cleaning, and exploration.
 
 Python	                        -         Data preprocessing, transformation, and automation.
 
