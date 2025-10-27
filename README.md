@@ -7,21 +7,21 @@ This project involves data cleaning, analysis, and visualization using Excel, Py
 
 ## Tools and Technologies Used
 
-## Tool                        ----------------          Library	Purpose
-Excel	                         -       Data collection, initial cleaning, and exploration.
+## Tool                        --------------------          Library	Purpose
+Excel	                         --------------------       Data collection, initial cleaning, and exploration.
 
-Python	                        -         Data preprocessing, transformation, and automation.
+Python	                        --------------------         Data preprocessing, transformation, and automation.
 
-Pandas	                        -         Data manipulation and analysis.
+Pandas	                        --------------------        Data manipulation and analysis.
 
-NumPy	                           -        Numerical computations.
+NumPy	                           --------------------        Numerical computations.
 
-Matplotlib & Seaborn	             -      Data visualization and trend analysis.
+Matplotlib & Seaborn	             --------------------      Data visualization and trend analysis.
 
-Power BI	                        -       Dashboard creation for interactive data visualization.
+Power BI	                        --------------------       Dashboard creation for interactive data visualization.
 
-# Project Workflow
-# 1️ Data Collection & Cleaning
+## Project Workflow
+## 1️ Data Collection & Cleaning
 
 Imported raw sales and return data from Excel files.
 
@@ -29,7 +29,7 @@ Handled missing values, duplicates, and inconsistent data types using Pandas.
 
 Extracted year, month, and day features from order dates.
 
-# 2️ Data Analysis
+## 2️ Data Analysis
 
 Performed descriptive statistics (mean, median, total revenue, and profit).
 
@@ -37,13 +37,13 @@ Created calculated metrics like Profit Margin %, Total Orders, and Revenue by Ch
 
 Analyzed top-performing products, states, and years.
 
-# 3️ Data Visualization
+## 3️ Data Visualization
 
 Built Python visualizations using Matplotlib and Seaborn for profit trends and correlations.
 
 Designed a Power BI Dashboard for dynamic and interactive insights.
 
-# Dashboard Insights
+## Dashboard Insights
 
 The Power BI dashboard provides the following key insights:
 
@@ -63,7 +63,7 @@ Profit by Year: Steady growth until 2017 with a drop in 2018
 
 Revenue by State: California, Illinois, and Florida are top contributors
 
-# Insights
+## Insights
 1.Monthly Revenue Cycle: Revenue stays stable between ≈ 26.5M across 2014–2017, with no consistent seasonal spikes. Sharpest drop (≈$21.2M) occurs in early 2017, indicating a possible one-time disruption.
 
 2.Channel Mix: Wholesale: 54%. Distributors: 31%. Exports: 15% — opportunity to scale international presence.
